@@ -13,6 +13,7 @@
 		6C408A5828A43C1400C0CFF9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C408A5628A43C1400C0CFF9 /* Main.storyboard */; };
 		6C408A5A28A43C1600C0CFF9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C408A5928A43C1600C0CFF9 /* Assets.xcassets */; };
 		6C408A5D28A43C1600C0CFF9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C408A5B28A43C1600C0CFF9 /* LaunchScreen.storyboard */; };
+		6C408A6528A456F500C0CFF9 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 6C408A6428A456F500C0CFF9 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6C408A5928A43C1600C0CFF9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6C408A5C28A43C1600C0CFF9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6C408A5E28A43C1600C0CFF9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6C408A6428A456F500C0CFF9 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				6C408A5428A43C1400C0CFF9 /* ViewController.swift */,
 				6C408A5628A43C1400C0CFF9 /* Main.storyboard */,
 				6C408A5928A43C1600C0CFF9 /* Assets.xcassets */,
+				6C408A6428A456F500C0CFF9 /* start.txt */,
 				6C408A5B28A43C1600C0CFF9 /* LaunchScreen.storyboard */,
 				6C408A5E28A43C1600C0CFF9 /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6C408A5D28A43C1600C0CFF9 /* LaunchScreen.storyboard in Resources */,
+				6C408A6528A456F500C0CFF9 /* start.txt in Resources */,
 				6C408A5A28A43C1600C0CFF9 /* Assets.xcassets in Resources */,
 				6C408A5828A43C1400C0CFF9 /* Main.storyboard in Resources */,
 			);
